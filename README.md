@@ -1,64 +1,76 @@
-👋 Hi, I'm Rameshwari
-🚀 About Me
+<h1 align="center">Hi 👋, I'm Rameshwari 🚀</h1>
 
-I build products, data systems, and AI-driven solutions that solve real-world problems.
+<p align="center">
+  ⚡ Building products, data systems & AI solutions ⚡
+</p>
 
-🎯 Product thinking + execution (case studies, PRDs, strategy)
+---
 
-⚙️ Data pipelines (Azure, Kafka, AWS)
+## 🚀 About Me  
 
-💻 Full-stack apps (React, Node, MongoDB)
+<p align="center">
+💡 I build systems that turn ideas into real-world impact  
+</p>
 
-📊 Finance + valuation (DCF, M&A analysis)
+<p align="center">
+🎯 Product thinking • ⚙️ Data pipelines • 💻 Full-stack • 📊 Finance  
+</p>
 
-🧠 What I'm Working On
+---
 
-Building scalable data pipelines & AI systems
+## 🧠 What I'm Working On  
 
-Creating real-world products with impact
+<p align="center">
+🚀 Scalable Data Pipelines & AI Systems  
+<br>
+🌍 Real-world Product Building  
+<br>
+🤖 ML • System Design • GenAI  
+</p>
 
-Exploring ML, system design & GenAI
+---
 
-🤝 Open to Collaborate On
-
-AI / ML projects
-
-Data Engineering pipelines
-
-Product building (0 → 1 ideas)
+---
 
 ## 💻 Tech Stack  
 
-### 🧠 AI / ML / Data  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,aws,azure,kafka,mongodb,git,github,vscode,postman&perline=7" />
+</p>
+
+## 🤖 Tech Stack  
+
+### 💻 Programming Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express&perline=6" />
+</p>
 
 ---
 
-### 📊 Data Engineering  
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+### 📊 Data Engineering & Analytics  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kafka,mysql&perline=6" />
+</p>
 
 ---
 
-### 💻 Full Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+### 🛠 Tools & Development Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6" />
+</p>
 
 ---
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+### 🧠 Databases & Storage  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb&perline=6" />
+</p>
+
+## 🚀 Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,aws,azure,kafka,mongodb,git,github,vscode,postman&perline=7" />
+</p>
 <!---
 rameshwari28/rameshwari28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
